@@ -7,3 +7,23 @@ body {
     border-radius: 25px;
     margin: 25px;
 }
+ul {
+    list-style: none;
+    padding: 3px;
+    border: solid 3px white;
+    margin-left:535px ;
+    margin-right:535px ;
+    border-radius: 25px;
+    }
+    li {
+        padding: 5px;
+        display: inline-block;
+    }
+    a {
+        color: white;
+        text-decoration: none;
+    }
+    li :hover {
+        color: black;
+        transition: 0.5s;
+    }
