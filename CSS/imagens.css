@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(2, 105, 146);
+    color: white;
+    font: normal 15pt Arial;
+    text-align: center;
+    border: solid 5px white;
+    border-radius: 25px;
+    margin: 25px;
+}
