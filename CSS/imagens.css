@@ -27,4 +27,20 @@ ul {
         color: black;
         transition: 0.5s;
     }
+    div {
+        display: flex;
+        flex-direction:row ;
+        margin: auto;
+    }
+    div#img1 :hover {
+        width:600px ;
+        height:433px ;
+        transition: 1s;
+    }
+    div#img2 :hover {
+        width:600px ;
+        height:433px ;
+        transition: 1s;
+    }
+
 
